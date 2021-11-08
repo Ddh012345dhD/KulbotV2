@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=MCU Member=PWMA
+Removed Member From Class: ClassName=MCU Member=PWMB
+Added Pin To Net: NetName=PWM_A Pin=U7-9
+Added Pin To Net: NetName=PWM_B Pin=U7-16
+Added Member To Class: ClassName=MCU Member=Wire PWM_A
+Added Member To Class: ClassName=MCU Member=Wire PWM_B
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

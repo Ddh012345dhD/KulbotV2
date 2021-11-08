@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=read_SW_P Pin=IC1-7
+Added Net: Name=read_SW_P
+Added Member To Class: ClassName=power Member=Component R6 10k
+Added Room: Name=power

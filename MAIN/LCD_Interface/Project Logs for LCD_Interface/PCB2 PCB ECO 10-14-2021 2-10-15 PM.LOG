@@ -1,0 +1,18 @@
+Added Component: Designator=Cx6(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx7(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx8(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=Cx6-1
+Added Pin To Net: NetName=GND Pin=Cx6-2
+Added Pin To Net: NetName=GND Pin=Cx7-1
+Added Pin To Net: NetName=+5 Pin=Cx7-2
+Added Pin To Net: NetName=GND Pin=Cx8-1
+Added Pin To Net: NetName=+5 Pin=Cx8-2
+Added Member To Class: ClassName=Sheet3 Member=Component Cx6 XXpF
+Added Member To Class: ClassName=Sheet3 Member=Component Cx7 XXpF
+Added Member To Class: ClassName=Sheet3 Member=Component Cx8 XXpF
+Added Member To Class: ClassName=BUTTON Member=Wire SW_OK
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

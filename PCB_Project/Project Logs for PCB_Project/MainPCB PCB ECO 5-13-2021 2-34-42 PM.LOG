@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=SD_CS Pin=J-P2
+Added Pin To Net: NetName=SD_MOSI Pin=J-P3
+Added Pin To Net: NetName=VCC Pin=J-P4
+Added Pin To Net: NetName=SD_CLK Pin=J-P5
+Added Pin To Net: NetName=GND Pin=J-P6
+Added Pin To Net: NetName=SPI_MISO Pin=J-P7
+Added Pin To Net: NetName=NetLabel136 Pin=J-P8
+Added Net: Name=NetLabel136
+Added Pin To Net: NetName=NetLabel137 Pin=J-P1
+Added Net: Name=NetLabel137
+Added Member To Class: ClassName=MCU Member=Wire NetLabel136
+Added Member To Class: ClassName=MCU Member=Wire NetLabel137
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

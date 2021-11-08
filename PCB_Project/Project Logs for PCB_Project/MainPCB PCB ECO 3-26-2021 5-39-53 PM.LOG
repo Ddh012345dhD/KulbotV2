@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q1-3
+Removed Pin From Net: NetName=NetQ1_3 Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=U3-1
+Removed Member From Class: ClassName=Power Member=Q1
+Added Component: Designator=Q?(SOT23-321)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q?-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q?-3
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U14-25
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ?_3
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ?_2
+Added Class: Name=LED
+Added Class: Name=MCU
+Added Class: Name=Motor
+Added Class: Name=POWER
+Added Class: Name=S_Power
+Added Member To Class: ClassName=Power Member=Component Q? 2SC1815
+Added Room: Name=Power

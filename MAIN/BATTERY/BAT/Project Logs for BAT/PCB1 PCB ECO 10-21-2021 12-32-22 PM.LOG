@@ -1,0 +1,20 @@
+Added Component: Designator=LED?(Led 0805G)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "D:\Dropbox\Datasheets\Opto and Illumination\LEDs\SMD LED.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(Led 0805R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "D:\Dropbox\Datasheets\Opto and Illumination\LEDs\SMD LED.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=charg Pin=LED?-1
+Added Net: Name=charg
+Added Pin To Net: NetName=com Pin=LED?-2
+Added Pin To Net: NetName=com Pin=LED?-2
+Added Net: Name=com
+Added Pin To Net: NetName=std Pin=LED?-1
+Added Net: Name=std
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED-0805GVC
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED-0805RVC
+Added Room: Name=Sheet1

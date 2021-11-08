@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=GND Pin=BZT?-1
+Removed Pin From Net: NetName=NetBZT?_2 Pin=BZT?-2
+Removed Pin From Net: NetName=EN_POWER_BAT Pin=IC1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q1-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q-1
+Removed Pin From Net: NetName=+12 Pin=Q-2
+Removed Pin From Net: NetName=NetC3_1 Pin=Q-3
+Removed Pin From Net: NetName=NetQ1_3 Pin=R1-1
+Removed Pin From Net: NetName=EN_POWER_BAT Pin=R1-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-1
+Removed Pin From Net: NetName=+12 Pin=R2-2
+Removed Member From Class: ClassName=POWER Member=EN_POWER_BAT
+Removed Member From Class: ClassName=S_Power Member=EN_POWER_BAT
+Removed Member From Class: ClassName=S_Power Member=NetBZT?_2
+Removed Member From Class: ClassName=POWER Member=NetQ1_2
+Removed Member From Class: ClassName=POWER Member=NetQ1_3
+Removed Member From Class: ClassName=MCU Member=NetQ2_1
+Removed Member From Class: ClassName=MCU Member=NetQ3_1
+Removed Member From Class: ClassName=S_Power Member=NetR11_2
+Removed Member From Class: ClassName=MCU Member=NetR14_1
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q NewDesignator=Q1
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R29 NewDesignator=R31
+Change Component Designator: OldDesignator=R30 NewDesignator=R32
+Change Component Designator: OldDesignator=R31 NewDesignator=R33
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R35
+Change Component Designator: OldDesignator=R34 NewDesignator=R36
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Component Designator: OldDesignator=U10 NewDesignator=U9
+Change Component Designator: OldDesignator=U11 NewDesignator=U10
+Added Component: Designator=Q2(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SI2308CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SI2308CDS-T1-GE3/Vishay%20Siliconix/view-part/2523766/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_3 Pin=BZT?-2
+Added Pin To Net: NetName=NetQ1_2 Pin=IC1-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-1
+Added Pin To Net: NetName=NetC3_1 Pin=Q1-2
+Added Pin To Net: NetName=+12 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-3
+Added Pin To Net: NetName=EN_POWER_BAT Pin=Q3-3
+Added Pin To Net: NetName=+12 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetCx5_2 Pin=R10-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R14-1
+Added Pin To Net: NetName=EN_POWER_BAT Pin=R14-2
+Change Net Name : Old Net Name=EN_POWER_BAT New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetBZT?_2 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetIC1_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetBZT?_2
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR16_1
+Added Pin To Net: NetName=EN_POWER Pin=Q2-1
+Added Pin To Net: NetName=EN_POWER Pin=Q3-2
+Added Pin To Net: NetName=EN_POWER Pin=R10-1
+Added Net: Name=EN_POWER
+Added Pin To Net: NetName=NetBZT?_1 Pin=BZT?-1
+Added Pin To Net: NetName=NetBZT?_1 Pin=R5-2
+Added Net: Name=NetBZT?_1
+Added Member To Class: ClassName=Power Member=Component Q2 SI2308CDS-T1-GE3
+Added Member To Class: ClassName=Power Member=Component R14 1k
+Added Member To Class: ClassName=Power Member=Component R15 2k
+Added Member To Class: ClassName=POWER Member=Wire EN_POWER
+Added Member To Class: ClassName=S_Power Member=Wire EN_POWER
+Added Member To Class: ClassName=POWER Member=Wire NetBZT?_1
+Added Member To Class: ClassName=POWER Member=Wire NetBZT?_2
+Added Member To Class: ClassName=S_Power Member=Wire NetC8_1
+Added Member To Class: ClassName=S_Power Member=Wire NetIC1_1
+Added Member To Class: ClassName=S_Power Member=Wire NetQ3_3
+Added Member To Class: ClassName=MCU Member=Wire NetQ4_1
+Added Member To Class: ClassName=MCU Member=Wire NetQ5_1
+Added Member To Class: ClassName=S_Power Member=Wire NetR12_2
+Added Member To Class: ClassName=MCU Member=Wire NetR16_1
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

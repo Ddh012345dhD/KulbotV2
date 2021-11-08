@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=LED1 Old Footprint=Lumex_SML-LX0603GW-TR_0 New Footprint=LED-0805-Red
+Change Component Footprint: Designator=LED2 Old Footprint=Lumex_SML-LX0603GW-TR_0 New Footprint=LED-0805-Red
+Added Member To Class: ClassName=Sheet1 Member=Component J? ZF1-20-02-X-WT
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

@@ -1,0 +1,64 @@
+Removed Member From Class: ClassName=MCU Member=R15
+Removed Member From Class: ClassName=MCU Member=R16
+Removed Member From Class: ClassName=MCU Member=R17
+Added Component: Designator=U14(SOP65P640X110-28N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PCA9685PW,112/NXP%20USA%20Inc./view-part/550390/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "568-8366-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PCA9685PW,112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-28 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/PCA9685PW,112/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PCA9685PW,112/NXP%20USA%20Inc./view-part/550390/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U14-2
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=GND Pin=U14-4
+Added Pin To Net: NetName=GND Pin=U14-5
+Added Pin To Net: NetName=NetLabel438 Pin=U14-6
+Added Pin To Net: NetName=NetLabel439 Pin=U14-7
+Added Pin To Net: NetName=PWM_A Pin=U14-8
+Added Pin To Net: NetName=DIR_MA1 Pin=U14-9
+Added Pin To Net: NetName=DIR_MA2 Pin=U14-10
+Added Pin To Net: NetName=DIR_MB1 Pin=U14-11
+Added Pin To Net: NetName=DIR_MB2 Pin=U14-12
+Added Pin To Net: NetName=PWM_B Pin=U14-13
+Added Pin To Net: NetName=GND Pin=U14-14
+Added Pin To Net: NetName=S1 Pin=U14-15
+Added Pin To Net: NetName=S2 Pin=U14-16
+Added Pin To Net: NetName=S3 Pin=U14-17
+Added Pin To Net: NetName=S4 Pin=U14-18
+Added Pin To Net: NetName=S5 Pin=U14-19
+Added Pin To Net: NetName=S6 Pin=U14-20
+Added Pin To Net: NetName=S7 Pin=U14-21
+Added Pin To Net: NetName=S8 Pin=U14-22
+Added Pin To Net: NetName=GND Pin=U14-23
+Added Pin To Net: NetName=GND Pin=U14-24
+Added Pin To Net: NetName=SCL Pin=U14-26
+Added Pin To Net: NetName=SDA Pin=U14-27
+Added Pin To Net: NetName=VCC Pin=U14-28
+Added Member To Class: ClassName=Power Member=Component C3 104
+Added Member To Class: ClassName=Power Member=Component C4 22uF 16V
+Added Member To Class: ClassName=Power Member=Component Q1 2SC1815
+Added Member To Class: ClassName=Power Member=Component R1 330
+Added Member To Class: ClassName=Power Member=Component R2 330
+Added Member To Class: ClassName=Power Member=Component R3 330
+Added Member To Class: ClassName=Power Member=Component R6 330
+Added Member To Class: ClassName=Power Member=Component R7 220R
+Added Member To Class: ClassName=Power Member=Component R8 10k
+Added Member To Class: ClassName=Power Member=Component R11 10k
+Added Member To Class: ClassName=Power Member=Component R13 10k
+Added Member To Class: ClassName=Power Member=Component R14 100k
+Added Member To Class: ClassName=MCU Member=Component R18 4k7
+Added Member To Class: ClassName=MCU Member=Component R20 4k7
+Added Member To Class: ClassName=MCU Member=Component R22 4k7
+Added Member To Class: ClassName=MCU Member=Component R24 4k7
+Added Member To Class: ClassName=MCU Member=Component R25 10k
+Added Member To Class: ClassName=Power Member=Component U3 AO3401
+Added Member To Class: ClassName=Power Member=Component U4 AO3401
+Added Member To Class: ClassName=Power Member=Component U5 LM1117-3.3V
+Added Member To Class: ClassName=Power Member=Component U7 AO3401
+Added Member To Class: ClassName=Motor Member=Component U14 PCA9685PW,112
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

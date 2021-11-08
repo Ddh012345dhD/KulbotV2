@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Cx10 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=Cx11 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=Cx12 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

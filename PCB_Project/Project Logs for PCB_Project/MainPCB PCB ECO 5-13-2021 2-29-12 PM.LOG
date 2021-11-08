@@ -1,0 +1,13 @@
+Added Component: Designator=J(GCT_MEM2075-00-140-01-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MEM2075-00-140-01-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MEM2075-00-140-01-A/Global%20Connector%20Technology/view-part/2680480/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component J MEM2075-00-140-01-A
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

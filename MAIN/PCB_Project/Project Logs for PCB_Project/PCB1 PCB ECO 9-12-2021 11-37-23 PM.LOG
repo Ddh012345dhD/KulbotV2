@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=Sheet1 Member=Component J13 FH12-12S-0.5SH(55)
+Added Member To Class: ClassName=MCU Member=Wire GPIO_0
+Added Member To Class: ClassName=MCU Member=Wire SPI_CLK
+Added Member To Class: ClassName=MCU Member=Wire SPI_MISO
+Added Member To Class: ClassName=MCU Member=Wire SPI_MOSI

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=V2 Pin=U3-3
+Added Pin To Net: NetName=V1 Pin=U3-5
+Added Pin To Net: NetName=V3 Pin=U3-10
+Added Pin To Net: NetName=V4 Pin=U3-13
+Added Room: Name=power

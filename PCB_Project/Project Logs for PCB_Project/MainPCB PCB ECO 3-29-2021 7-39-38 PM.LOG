@@ -1,0 +1,19 @@
+Added Component: Designator=J2(HRS_DM3AT-SF-PEJM5)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose%20Electric%20Co%20Ltd/view-part/1223877/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_P1 Pin=J2-P1
+Added Pin To Net: NetName=NetJ2_P1 Pin=J2-P2
+Added Pin To Net: NetName=NetJ2_P1 Pin=J2-P3
+Added Pin To Net: NetName=NetJ2_P1 Pin=J2-P4
+Added Net: Name=NetJ2_P1
+Added Member To Class: ClassName=MCU Member=Component J2 DM3AT-SF-PEJM5
+Added Member To Class: ClassName=MCU Member=Wire NetJ2_P1
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

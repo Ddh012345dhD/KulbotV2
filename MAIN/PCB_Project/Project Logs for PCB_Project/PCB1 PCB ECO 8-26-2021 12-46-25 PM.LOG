@@ -1,0 +1,5 @@
+Added Component: Designator=MMC?(MicroSD-2)
+Change Class Name : Old Net Name=Sheet2 New Net Name=servo
+Added Member To Class: ClassName=Sheet1 Member=Component J2 ZF1-20-02-X-WT
+Added Room: Name=servo
+Added Room: Name=Sheet1

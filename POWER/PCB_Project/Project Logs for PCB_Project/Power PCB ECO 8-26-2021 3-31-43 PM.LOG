@@ -1,0 +1,4 @@
+Added Component: Designator=JDC1(DC3)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Class: Name=power
+Added Room: Name=power

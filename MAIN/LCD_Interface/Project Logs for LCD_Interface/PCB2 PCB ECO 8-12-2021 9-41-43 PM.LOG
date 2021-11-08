@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SW1 Old Footprint=SW2-DIP New Footprint=SW2-SMD
+Change Component Footprint: Designator=SW2 Old Footprint=SW2-DIP New Footprint=SW2-SMD
+Change Component Footprint: Designator=SW3 Old Footprint=SW2-DIP New Footprint=SW2-SMD
+Change Component Footprint: Designator=SW4 Old Footprint=SW2-DIP New Footprint=SW2-SMD
+Added Room: Name=Sheet2

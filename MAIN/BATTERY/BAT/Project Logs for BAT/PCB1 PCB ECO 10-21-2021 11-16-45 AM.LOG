@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=J NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Component: Designator=J2(TE_1565986-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1565986-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ_A4/B9 New Net Name=NetJ1_A4/B9
+Added Member To Class: ClassName=Sheet1 Member=Component J2 1565986-1
+Added Room: Name=Sheet1

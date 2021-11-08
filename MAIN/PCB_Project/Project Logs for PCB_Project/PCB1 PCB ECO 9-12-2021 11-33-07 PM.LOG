@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=lCD_CLK Pin=J13-8
+Added Pin To Net: NetName=LCD_DIN Pin=J13-9
+Added Pin To Net: NetName=LCD_DC Pin=J13-10
+Added Pin To Net: NetName=LCD_CE Pin=J13-11
+Added Pin To Net: NetName=LCD_RST Pin=J13-12
+Added Member To Class: ClassName=Sheet1 Member=Component J13 FH12-12S-0.5SH(55)

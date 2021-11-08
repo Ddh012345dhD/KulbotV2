@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=J1-1
+Change Component Footprint: Designator=C3 Old Footprint=C-0805 New Footprint=CAP-ALU-SMD-5.5x5.5
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

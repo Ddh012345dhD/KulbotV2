@@ -1,0 +1,20 @@
+Added Component: Designator=J(GCT_USB4105_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4105/Global%20Connector%20Technology/view-part/4223080/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J-A4/B9
+Added Pin To Net: NetName=+5 Pin=J-B4/A9
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=J-A1/B12
+Added Pin To Net: NetName=GND Pin=J-B1/A12
+Added Pin To Net: NetName=GND Pin=J-G1
+Added Pin To Net: NetName=GND Pin=J-G2
+Added Pin To Net: NetName=GND Pin=J-G3
+Added Pin To Net: NetName=GND Pin=J-G4
+Added Net: Name=GND
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Sheet2 Member=R7
+Removed Member From Class: ClassName=BUTTON Member=CANCEL
+Removed Member From Class: ClassName=BUTTON Member=DE
+Removed Member From Class: ClassName=BUTTON Member=IND
+Removed Member From Class: ClassName=BUTTON Member=OK
+Removed Member From Class: ClassName=LCD Member=SW_OK
+Change Component Designator: OldDesignator=Cx1 NewDesignator=Cx2
+Change Component Designator: OldDesignator=Cx2 NewDesignator=Cx3
+Change Component Designator: OldDesignator=Cx3 NewDesignator=Cx4
+Change Component Designator: OldDesignator=Cx4 NewDesignator=Cx5
+Change Component Designator: OldDesignator=Cx5 NewDesignator=Cx1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R1
+Added Pin To Net: NetName=SW_OK Pin=Cx3-2
+Added Pin To Net: NetName=DE Pin=J1-4
+Added Pin To Net: NetName=IND Pin=J1-5
+Added Pin To Net: NetName=CANCEL Pin=J1-6
+Change Net Name : Old Net Name=CANCEL New Net Name=SW_CANCEL
+Change Net Name : Old Net Name=DE New Net Name=SW_DE
+Change Net Name : Old Net Name=IND New Net Name=SW_IND
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Added Member To Class: ClassName=Sheet2 Member=Component J2 FH12-12S-0.5SH(55)
+Added Member To Class: ClassName=Sheet2 Member=Component R5 10k
+Added Member To Class: ClassName=BUTTON Member=Wire SW_CANCEL
+Added Member To Class: ClassName=BUTTON Member=Wire SW_DE
+Added Member To Class: ClassName=BUTTON Member=Wire SW_IND
+Added Member To Class: ClassName=BUTTON Member=Wire SW_OK
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

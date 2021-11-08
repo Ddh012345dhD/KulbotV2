@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\dangh\Desktop\WORK 3S\E2.0\POWER\PCB_Project\Power.PcbDoc
+Date         : 8/26/2021
+Time         : 3:58:13 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 80mmx60mm
+    Components on board, 3
+count : 2

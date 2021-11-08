@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Added Component: Designator=Cx7(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=Cx7-1
+Added Pin To Net: NetName=GND Pin=Cx7-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC6_2
+Added Member To Class: ClassName=power Member=Component C6 C 104
+Added Member To Class: ClassName=power Member=Component C8 C 104
+Added Member To Class: ClassName=power Member=Component Cx7 22uf 10v
+Added Member To Class: ClassName=power Member=Component U3 LM324DR
+Added Member To Class: ClassName=power Member=Component U4 ATTINY44A-SSU

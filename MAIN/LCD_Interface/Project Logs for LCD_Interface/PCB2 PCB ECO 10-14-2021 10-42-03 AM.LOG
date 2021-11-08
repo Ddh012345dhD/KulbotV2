@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=CANCEL Pin=J1-01
+Removed Pin From Net: NetName=VCC Pin=J1-02
+Removed Pin From Net: NetName=LCD_RST Pin=J1-03
+Removed Pin From Net: NetName=LCD_CE Pin=J1-04
+Removed Pin From Net: NetName=LCD_DC Pin=J1-05
+Removed Pin From Net: NetName=LCD_DIN Pin=J1-06
+Removed Pin From Net: NetName=LCD_CLK Pin=J1-07
+Removed Pin From Net: NetName=VCC Pin=J1-08
+Removed Pin From Net: NetName=LCD_BL Pin=J1-09
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=DE Pin=J1-11
+Removed Pin From Net: NetName=IND Pin=J1-12
+Removed Pin From Net: NetName=VCC Pin=J1-13
+Removed Pin From Net: NetName=OK Pin=J1-14
+Removed Pin From Net: NetName=VCC Pin=J1-15
+Removed Pin From Net: NetName=VCC Pin=J1-16
+Removed Pin From Net: NetName=VCC Pin=J1-17
+Removed Pin From Net: NetName=GND Pin=J1-18
+Removed Pin From Net: NetName=GND Pin=J1-19
+Removed Pin From Net: NetName=GND Pin=J1-20
+Removed Member From Class: ClassName=Sheet2 Member=J1
+Added Component: Designator=J?(HIROSE_FH12-12S-0.5SH(55))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FH12-12S-0.5SH_55_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FH12-12S-0.5SH%2855%29/Hirose%20Electric%20Co%20Ltd/view-part/110249/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(HIROSE_FH12-12S-0.5SH(55))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FH12-12S-0.5SH_55_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FH12-12S-0.5SH%2855%29/Hirose%20Electric%20Co%20Ltd/view-part/110249/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=EN Pin=J?-1
+Added Pin To Net: NetName=+5 Pin=J?-2
+Added Pin To Net: NetName=SDA Pin=J?-2
+Added Pin To Net: NetName=+5 Pin=J?-3
+Added Pin To Net: NetName=SCL Pin=J?-3
+Added Pin To Net: NetName=VCC Pin=J?-5
+Added Pin To Net: NetName=VCC Pin=J?-6
+Added Pin To Net: NetName=LCD_BL Pin=J?-7
+Added Pin To Net: NetName=VCC Pin=J?-7
+Added Pin To Net: NetName=LCD_CLK Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=LCD_DIN Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=LCD_DC Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=LCD_CE Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=LCD_RST Pin=J?-12
+Change Net Name : Old Net Name=LCD_BL New Net Name=SW_OK
+Added Pin To Net: NetName=SW_CANCEL Pin=J?-6
+Added Net: Name=SW_CANCEL
+Added Pin To Net: NetName=SW_DE Pin=J?-4
+Added Net: Name=SW_DE
+Added Pin To Net: NetName=SW_IND Pin=J?-5
+Added Net: Name=SW_IND
+Added Member To Class: ClassName=Sheet2 Member=Component J? FH12-12S-0.5SH(55)
+Added Member To Class: ClassName=Sheet2 Member=Component J? FH12-12S-0.5SH(55)
+Added Member To Class: ClassName=Sheet2 Member=Component SW1 SW
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetLabel719 Pin=J13-4
+Removed Pin From Net: NetName=NetLabel718 Pin=J13-5
+Removed Pin From Net: NetName=NetLabel717 Pin=J13-6
+Added Pin To Net: NetName=NetLabel718 Pin=J13-4
+Added Pin To Net: NetName=NetLabel717 Pin=J13-5
+Added Pin To Net: NetName=NetLabel719 Pin=J13-6
+Added Pin To Net: NetName=NetLabel716 Pin=U5-4
+Added Pin To Net: NetName=NetLabel719 Pin=U5-5
+Added Pin To Net: NetName=NetLabel717 Pin=U5-6
+Added Pin To Net: NetName=NetLabel718 Pin=U5-7
+Change Net Name : Old Net Name=NetLabel716 New Net Name=SW_OK
+Change Net Name : Old Net Name=NetLabel717 New Net Name=SW_IND
+Change Net Name : Old Net Name=NetLabel718 New Net Name=SW_DE
+Change Net Name : Old Net Name=NetLabel719 New Net Name=SW_CANCEL
+Added Member To Class: ClassName=MCU Member=Wire SW_CANCEL
+Added Member To Class: ClassName=MCU Member=Wire SW_DE
+Added Member To Class: ClassName=MCU Member=Wire SW_IND
+Added Member To Class: ClassName=MCU Member=Wire SW_OK
+Added Room: Name=Sheet1

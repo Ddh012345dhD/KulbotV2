@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=HAL_CHB_M2 Pin=U5-13
+Removed Pin From Net: NetName=SPI_CS_SREEN Pin=U5-26
+Added Pin To Net: NetName=SPI_CS_SREEN Pin=U5-13
+Added Pin To Net: NetName=HAL_CHB_M2 Pin=U5-26
+Change Net Name : Old Net Name=BT_IN New Net Name=LCD_DC
+Change Net Name : Old Net Name=PWM_B New Net Name=LCD_DIN
+Change Net Name : Old Net Name=SPI_CS_SREEN New Net Name=lCD_CLK
+Added Room: Name=Sheet1

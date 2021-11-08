@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED-0805-Blue New Footprint=Lumex_SML-LX0603GW-TR_0
+Change Component Footprint: Designator=LED2 Old Footprint=LED-0805-Blue New Footprint=Lumex_SML-LX0603GW-TR_0
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

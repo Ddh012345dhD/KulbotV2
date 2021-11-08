@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Added Member To Class: ClassName=Sheet3 Member=Component J4 53261-0371
+Added Member To Class: ClassName=Sheet3 Member=Component J5 53261-0371
+Added Member To Class: ClassName=Sheet3 Member=Component J6 53261-0371
+Added Room: Name=Sheet3

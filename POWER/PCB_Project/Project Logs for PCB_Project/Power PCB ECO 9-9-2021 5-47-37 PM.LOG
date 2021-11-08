@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Added Component: Designator=R6(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=IC1-6
+Added Pin To Net: NetName=+BOOT_IN Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=MISO Pin=U3-8
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U3-7
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R6-2
+Added Pin To Net: NetName=NetIC1_5 Pin=R8-1
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=RST Pin=U3-4
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=U3-9
+Added Net: Name=SCK
+Added Member To Class: ClassName=power Member=Component C1 100uF
+Added Member To Class: ClassName=power Member=Component C2 100uF
+Added Member To Class: ClassName=power Member=Component C3 JP2x1-2.0
+Added Member To Class: ClassName=power Member=Component R2 10k
+Added Member To Class: ClassName=power Member=Component R3 62K
+Added Member To Class: ClassName=power Member=Component R4 10k
+Added Member To Class: ClassName=power Member=Component R7 10k
+Added Member To Class: ClassName=power Member=Component R8 10k
+Added Room: Name=power

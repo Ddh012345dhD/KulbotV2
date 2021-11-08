@@ -1,0 +1,9 @@
+Added Component: Designator=R4(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IND Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Member To Class: ClassName=Sheet2 Member=Component R4 10k
+Added Room: Name=Sheet2

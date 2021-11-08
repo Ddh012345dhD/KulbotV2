@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=HAL_CHA_M2 Pin=U10-10
+Removed Pin From Net: NetName=HAL_CHB_M2 Pin=U10-11
+Removed Pin From Net: NetName=HAL_CHA_M1 Pin=U10-12
+Removed Pin From Net: NetName=HAL_CHB_M1 Pin=U10-13
+Added Pin To Net: NetName=HAL_CHA_M1 Pin=U10-10
+Added Pin To Net: NetName=HAL_CHB_M1 Pin=U10-11
+Added Pin To Net: NetName=HAL_CHA_M2 Pin=U10-12
+Added Pin To Net: NetName=HAL_CHB_M2 Pin=U10-13
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

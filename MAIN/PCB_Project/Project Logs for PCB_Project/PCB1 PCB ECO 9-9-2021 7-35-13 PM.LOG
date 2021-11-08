@@ -1,0 +1,11 @@
+Added Component: Designator=J3(Molex_0_MFG)
+Added Component: Designator=J4(Molex_0_MFG)
+Added Member To Class: ClassName=Sheet1 Member=Component J3 532610671
+Added Member To Class: ClassName=Sheet1 Member=Component J4 532610671
+Added Member To Class: ClassName=Sheet1 Member=Component J5 3-1734261-4
+Added Member To Class: ClassName=Sheet1 Member=Component J6 3-1734261-4
+Added Member To Class: ClassName=Sheet1 Member=Component J7 3-1734261-4
+Added Member To Class: ClassName=Sheet1 Member=Component J8 3-1734261-4
+Added Member To Class: ClassName=Sheet1 Member=Component J10 3-1734261-4
+Added Member To Class: ClassName=Sheet1 Member=Component J11 3-1734261-4
+Added Room: Name=Sheet1

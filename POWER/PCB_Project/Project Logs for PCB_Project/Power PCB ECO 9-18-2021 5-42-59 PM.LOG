@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=Cx1 NewDesignator=Cx2
+Change Component Designator: OldDesignator=Cx2 NewDesignator=Cx1
+Change Component Designator: OldDesignator=Cx3 NewDesignator=Cx5
+Change Component Designator: OldDesignator=Cx4 NewDesignator=Cx6
+Change Component Designator: OldDesignator=Cx5 NewDesignator=Cx3
+Change Component Designator: OldDesignator=Cx6 NewDesignator=Cx4
+Change Component Designator: OldDesignator=Cx7 NewDesignator=Cx8
+Added Component: Designator=C3(J2-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000211821"; VariantName = "[No Variations]"
+Added Component: Designator=C4(J2-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000211821"; VariantName = "[No Variations]"
+Added Component: Designator=C5(J2-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000211821"; VariantName = "[No Variations]"
+Added Component: Designator=Cx7(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=U_RX Pin=C4-1
+Added Pin To Net: NetName=U_TX Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+9 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=Cx7-1
+Added Pin To Net: NetName=VCC Pin=Cx7-2
+Change Net Name : Old Net Name=NetCx7_1 New Net Name=NetCx8_1
+Added Member To Class: ClassName=power Member=Component C3 JP2x1-2.0
+Added Member To Class: ClassName=power Member=Component C4 JP2x1-2.0
+Added Member To Class: ClassName=power Member=Component C5 JP2x1-2.0
+Added Member To Class: ClassName=power Member=Component Cx8 1uF 6.3V
+Added Room: Name=power

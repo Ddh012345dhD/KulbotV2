@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SERVO3 Pin=J6-3
+Removed Pin From Net: NetName=SDA Pin=R6-1
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=SCL Pin=R7-1
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Member From Class: ClassName=Sheet3 Member=R6
+Removed Member From Class: ClassName=Sheet3 Member=R7
+Removed Member From Class: ClassName=POWER Member=GND
+Added Pin To Net: NetName=SERVO4 Pin=J6-3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(120, 25, 21)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Added Class: Name=mcu
+Added Member To Class: ClassName=Sheet3 Member=Component J3 53261-0371
+Added Member To Class: ClassName=POWER Member=Wire +5
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

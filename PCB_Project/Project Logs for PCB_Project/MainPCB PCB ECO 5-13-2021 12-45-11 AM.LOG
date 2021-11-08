@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=POWER Member=NetBZT?_1
+Removed Member From Class: ClassName=POWER Member=NetBZT?_2
+Removed Member From Class: ClassName=S_Power Member=NetBZT?_2
+Change Component Designator: OldDesignator=BZT? NewDesignator=BZT1
+Change Component Designator: OldDesignator=BZT? NewDesignator=BZT2
+Change Net Name : Old Net Name=NetBZT?_1 New Net Name=NetBZT1_1
+Change Net Name : Old Net Name=NetBZT?_2 New Net Name=NetBZT1_2
+Change Net Name : Old Net Name=NetBZT?_2 New Net Name=NetBZT2_2
+Added Member To Class: ClassName=Power Member=Component BZT2 Diode SMD
+Added Member To Class: ClassName=POWER Member=Wire NetBZT1_1
+Added Member To Class: ClassName=POWER Member=Wire NetBZT1_2
+Added Member To Class: ClassName=S_Power Member=Wire NetBZT2_2
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

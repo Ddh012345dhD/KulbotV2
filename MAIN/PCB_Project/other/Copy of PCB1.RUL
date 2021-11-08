@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: E:\Users\dangh\Desktop\WORK 3S\E2.0\MAIN\PCB_Project\other\Copy of PCB1.PcbDoc
+RuleKind=Width|RuleName=lcd|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=MCU|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=P_VCC|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=FLASH|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=SENSOR_INPUT|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Motor|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

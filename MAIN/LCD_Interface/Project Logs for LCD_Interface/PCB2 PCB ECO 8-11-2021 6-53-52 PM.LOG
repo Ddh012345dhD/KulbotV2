@@ -1,0 +1,33 @@
+Added Component: Designator=J1(SAMTEC_ZF1-20-02-X-WT)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ZF1-20-02-T-WT/Samtec/view-part/3429267/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZF1-20-02-T-WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ZF1-20-02-T-WT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZF1-20-02-T-WT/Samtec/view-part/3429267/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(JP8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=LCD_BL Pin=P1-7
+Added Net: Name=LCD_BL
+Added Pin To Net: NetName=LCD_CE Pin=P1-2
+Added Net: Name=LCD_CE
+Added Pin To Net: NetName=LCD_CLK Pin=P1-5
+Added Net: Name=LCD_CLK
+Added Pin To Net: NetName=LCD_DC Pin=P1-3
+Added Net: Name=LCD_DC
+Added Pin To Net: NetName=LCD_DIN Pin=P1-4
+Added Net: Name=LCD_DIN
+Added Pin To Net: NetName=LCD_RST Pin=P1-1
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=VCC Pin=P1-6
+Added Net: Name=VCC
+Added Class: Name=Sheet2
+Added Class: Name=LCD
+Added Room: Name=Sheet2

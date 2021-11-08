@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=+BOOT_IN Pin=C4-1
+Removed Pin From Net: NetName=+BOOT_IN Pin=Cx2-2
+Removed Pin From Net: NetName=+BOOT_IN Pin=L1-1
+Removed Pin From Net: NetName=+BOOT_IN Pin=U3-3
+Removed Pin From Net: NetName=+BOOT_IN Pin=VR1-4
+Added Component: Designator=R?(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_5 Pin=C4-1
+Added Pin To Net: NetName=NetQ1_5 Pin=Cx2-2
+Added Pin To Net: NetName=NetQ1_5 Pin=L1-1
+Added Pin To Net: NetName=+BOOT_IN Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_1 Pin=R?-1
+Added Pin To Net: NetName=+BOOT_IN Pin=R?-2
+Added Pin To Net: NetName=NetQ1_1 Pin=U3-3
+Added Pin To Net: NetName=NetQ1_5 Pin=VR1-4
+Change Net Name : Old Net Name=+BOOT_IN New Net Name=Control_P
+Change Net Name : Old Net Name=Control_P New Net Name=NetIC1_1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=+BOOT_IN
+Change Net Name : Old Net Name=NetQ1_5 New Net Name=NetC4_1
+Added Member To Class: ClassName=power Member=Component R? 10k
+Added Room: Name=power

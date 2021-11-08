@@ -1,0 +1,55 @@
+Added Component: Designator=U1(SOP65P640X120-24N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=280817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=280817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=280817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCA9548APWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-24 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TCA9548APWR/Texas%20Instruments/view-part/280817/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=280817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Pin To Net: NetName=SDA_0 Pin=U1-4
+Added Pin To Net: NetName=SCL_0 Pin=U1-5
+Added Pin To Net: NetName=SDA_1 Pin=U1-6
+Added Pin To Net: NetName=SCL_1 Pin=U1-7
+Added Pin To Net: NetName=SDA_2 Pin=U1-8
+Added Pin To Net: NetName=SCL_2 Pin=U1-9
+Added Pin To Net: NetName=SDA_3 Pin=U1-10
+Added Pin To Net: NetName=SCL_3 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=SDA_4 Pin=U1-13
+Added Pin To Net: NetName=SCL_4 Pin=U1-14
+Added Pin To Net: NetName=SDA_5 Pin=U1-15
+Added Pin To Net: NetName=SCL_5 Pin=U1-16
+Added Pin To Net: NetName=SDA_6 Pin=U1-17
+Added Pin To Net: NetName=SCL_6 Pin=U1-18
+Added Pin To Net: NetName=SDA_7 Pin=U1-19
+Added Pin To Net: NetName=SCL_7 Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=SCL Pin=U1-22
+Added Pin To Net: NetName=SDA Pin=U1-23
+Added Pin To Net: NetName=VCC Pin=U1-24
+Added Member To Class: ClassName=Sheet2 Member=Component C8 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C9 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C10 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C11 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C12 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C13 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C14 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C15 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C16 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C17 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C18 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C19 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C20 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C21 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C22 JP3
+Added Member To Class: ClassName=Sheet2 Member=Component C23 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component U1 TCA9548APWR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

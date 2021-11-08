@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Power Member=SW3
+Added Member To Class: ClassName=MCU Member=Component SW4 SW
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

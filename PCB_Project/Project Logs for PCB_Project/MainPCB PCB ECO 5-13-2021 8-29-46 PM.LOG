@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW5
+Added Component: Designator=SW2(SW)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component C10 22uF 6.3
+Added Member To Class: ClassName=MCU Member=Component C12 22uF 6.3
+Added Member To Class: ClassName=Power Member=Component SW2 SW
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

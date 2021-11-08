@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Change Component Footprint: Designator=C1 Old Footprint=CAP-ALU-SMD-6.3x7.7x2.2 New Footprint=CAPPM7343X310N
+Change Component Comment : Designator=C1 Old Comment=100uF New Comment=100uf 16V
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP-ALU-SMD-6.3x7.7x2.2"; UniqueID = "\FXJUUACU" ("\FXJUUACU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "T495D107K010ATA100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t495d107k010ata100/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/t495d107k010ata100/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T495D107K010ATA100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=C2-1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC2_1
+Added Member To Class: ClassName=power Member=Component C2 100uf 16V
+Added Room: Name=power

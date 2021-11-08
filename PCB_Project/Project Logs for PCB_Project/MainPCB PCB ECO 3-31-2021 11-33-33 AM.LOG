@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=Cx10 NewDesignator=Cx9
+Change Component Designator: OldDesignator=Cx11 NewDesignator=Cx10
+Change Component Designator: OldDesignator=Cx12 NewDesignator=Cx11
+Change Component Designator: OldDesignator=Cx13 NewDesignator=Cx12
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW4
+Added Member To Class: ClassName=MCU Member=Wire +5L
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

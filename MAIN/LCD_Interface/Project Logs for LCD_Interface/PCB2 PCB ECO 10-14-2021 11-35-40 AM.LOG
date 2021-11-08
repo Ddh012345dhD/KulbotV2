@@ -1,0 +1,32 @@
+Added Component: Designator=SW1(Bourns_Inc_0_MFG)
+Added Component: Designator=SW2(Bourns_Inc_0_MFG)
+Added Component: Designator=SW3(Bourns_Inc_0_MFG)
+Added Component: Designator=SW4(Bourns_Inc_0_MFG)
+Added Component: Designator=SW5(Bourns_Inc_0_MFG)
+Added Pin To Net: NetName=EN Pin=SW1-1_1-
+Added Pin To Net: NetName=GND Pin=SW1-1_2+
+Added Pin To Net: NetName=EN Pin=SW1-2_1-
+Added Pin To Net: NetName=GND Pin=SW1-2_2+
+Added Pin To Net: NetName=NetR3_1 Pin=SW2-1_1-
+Added Pin To Net: NetName=GND Pin=SW2-1_2+
+Added Pin To Net: NetName=NetR3_1 Pin=SW2-2_1-
+Added Pin To Net: NetName=GND Pin=SW2-2_2+
+Added Pin To Net: NetName=SW_IND Pin=SW3-1_1-
+Added Pin To Net: NetName=GND Pin=SW3-1_2+
+Added Pin To Net: NetName=SW_IND Pin=SW3-2_1-
+Added Pin To Net: NetName=GND Pin=SW3-2_2+
+Added Pin To Net: NetName=SW_DE Pin=SW4-1_1-
+Added Pin To Net: NetName=GND Pin=SW4-1_2+
+Added Pin To Net: NetName=SW_DE Pin=SW4-2_1-
+Added Pin To Net: NetName=GND Pin=SW4-2_2+
+Added Pin To Net: NetName=SW_CANCEL Pin=SW5-1_1-
+Added Pin To Net: NetName=GND Pin=SW5-1_2+
+Added Pin To Net: NetName=SW_CANCEL Pin=SW5-2_1-
+Added Pin To Net: NetName=GND Pin=SW5-2_2+
+Added Member To Class: ClassName=Sheet2 Member=Component SW1 7914J-1-000
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 7914J-1-000
+Added Member To Class: ClassName=Sheet2 Member=Component SW3 7914J-1-000
+Added Member To Class: ClassName=Sheet2 Member=Component SW4 7914J-1-000
+Added Member To Class: ClassName=Sheet2 Member=Component SW5 7914J-1-000
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

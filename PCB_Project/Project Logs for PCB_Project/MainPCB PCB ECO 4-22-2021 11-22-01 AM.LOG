@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=+VM Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=+VM Pin=U5-3
+Removed Pin From Net: NetName=+5 Pin=U6-2
+Removed Pin From Net: NetName=+VM Pin=U6-3
+Removed Member From Class: ClassName=Power Member=Q2
+Removed Member From Class: ClassName=Power Member=Q3
+Removed Member From Class: ClassName=Power Member=R8
+Removed Member From Class: ClassName=Power Member=R9
+Removed Member From Class: ClassName=Power Member=R10
+Removed Member From Class: ClassName=Power Member=U5
+Removed Member From Class: ClassName=Power Member=U6
+Removed Member From Class: ClassName=Motor Member=+VM
+Removed Member From Class: ClassName=POWER Member=+VM
+Removed Member From Class: ClassName=POWER Member=TP1
+Removed Member From Class: ClassName=POWER Member=TP2
+Removed Member From Class: ClassName=POWER Member=TP
+Change Component Footprint: Designator=R17 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R18 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R19 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R20 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R21 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R22 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R23 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R24 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R25 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R28 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R30 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R31 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R33 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R34 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Change Component Comment : Designator=J1 Old Comment=XL1509_5V New Comment=XL1509_ADJ
+Change Component Designator: OldDesignator=+ NewDesignator=BT1
+Change Component Designator: OldDesignator=- NewDesignator=BT2
+Change Component Designator: OldDesignator=1 NewDesignator=P1
+Change Component Designator: OldDesignator=1 NewDesignator=P11
+Change Component Designator: OldDesignator=2 NewDesignator=P2
+Change Component Designator: OldDesignator=2 NewDesignator=P9
+Change Component Designator: OldDesignator=3 NewDesignator=P3
+Change Component Designator: OldDesignator=3 NewDesignator=P15
+Change Component Designator: OldDesignator=4 NewDesignator=P4
+Change Component Designator: OldDesignator=4 NewDesignator=P16
+Change Component Designator: OldDesignator=5 NewDesignator=P5
+Change Component Designator: OldDesignator=5 NewDesignator=P12
+Change Component Designator: OldDesignator=6 NewDesignator=P6
+Change Component Designator: OldDesignator=6 NewDesignator=P10
+Change Component Designator: OldDesignator=7 NewDesignator=P7
+Change Component Designator: OldDesignator=7 NewDesignator=P13
+Change Component Designator: OldDesignator=8 NewDesignator=P8
+Change Component Designator: OldDesignator=8 NewDesignator=P14
+Change Component Designator: OldDesignator=LD2 NewDesignator=LED2
+Change Component Designator: OldDesignator=LD3 NewDesignator=LED3
+Added Pin To Net: NetName=+VM Pin=C1-2
+Added Pin To Net: NetName=+VM Pin=R5-2
+Added Pin To Net: NetName=+VM Pin=U1-3
+Change Net Name : Old Net Name=+VM New Net Name=+9
+Added Member To Class: ClassName=Motor Member=Component Cx11 104
+Added Member To Class: ClassName=MCU Member=Component P3 Header 4
+Added Member To Class: ClassName=MCU Member=Component P5 Header 4
+Added Member To Class: ClassName=MCU Member=Component P6 Header 4
+Added Member To Class: ClassName=MCU Member=Component P8 Header 4
+Added Member To Class: ClassName=MCU Member=Component P9 Header 4
+Added Member To Class: ClassName=MCU Member=Component P11 Header 4
+Added Member To Class: ClassName=MCU Member=Component P13 Header 4
+Added Member To Class: ClassName=MCU Member=Component P16 Header 4
+Added Member To Class: ClassName=MCU Member=Component R30 1k
+Added Member To Class: ClassName=MCU Member=Component R32 10k
+Added Member To Class: ClassName=MCU Member=Component R34 470
+Added Member To Class: ClassName=Motor Member=Component R36 4k7
+Added Member To Class: ClassName=MCU Member=Wire +5L
+Added Member To Class: ClassName=Motor Member=Wire +9
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=J2-S1
+Removed Pin From Net: NetName=GND Pin=J2-S2
+Removed Pin From Net: NetName=GND Pin=J2-S3
+Removed Pin From Net: NetName=GND Pin=J2-S4
+Change Component Footprint: Designator=J2 Old Footprint=GCT_USB4110-GF-A_REVB New Footprint=GCT_USB4105_REVA
+Change Component Comment : Designator=J2 Old Comment=USB4110-GF-A_REVB New Comment=USB4105_REVA
+Change component parameters: Designator = "J2" ("J2"); Footprint = "GCT_USB4110-GF-A_REVB"; UniqueID = "\ATKHRPQV" ("\ATKHRPQV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "USB4105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4105/Global%20Connector%20Technology/view-part/4223080/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P6 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P7 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P8 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P10 Header 4
+Added Room: Name=Sheet1

@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=Cx1 NewDesignator=Cx3
+Change Component Designator: OldDesignator=Cx2 NewDesignator=Cx4
+Change Component Designator: OldDesignator=Cx3 NewDesignator=Cx5
+Change Component Designator: OldDesignator=Cx4 NewDesignator=Cx6
+Change Component Designator: OldDesignator=Cx5 NewDesignator=Cx7
+Change Component Designator: OldDesignator=Cx6 NewDesignator=Cx8
+Change Component Designator: OldDesignator=Cx7 NewDesignator=Cx9
+Change Component Designator: OldDesignator=Cx8 NewDesignator=Cx10
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Added Component: Designator=Cx1(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN-SMD-1206)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=VCC Pin=Cx1-2
+Added Pin To Net: NetName=GND Pin=Cx2-1
+Added Pin To Net: NetName=+5 Pin=Cx2-2
+Added Member To Class: ClassName=Sheet2 Member=Component Cx6 104
+Added Member To Class: ClassName=Sheet2 Member=Component Cx7 104
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

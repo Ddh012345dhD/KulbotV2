@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC3_1 Pin=J1-1
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

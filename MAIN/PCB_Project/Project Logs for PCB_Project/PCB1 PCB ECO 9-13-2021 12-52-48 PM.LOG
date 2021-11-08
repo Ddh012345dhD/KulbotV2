@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=lCD_CLK Pin=J12-8
+Added Pin To Net: NetName=EN Pin=J12-8

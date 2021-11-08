@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J12-8
+Added Pin To Net: NetName=+5 Pin=J12-1
+Added Pin To Net: NetName=+5 Pin=J12-2
+Added Pin To Net: NetName=+5 Pin=J12-3
+Added Pin To Net: NetName=VCC Pin=J12-4
+Added Pin To Net: NetName=VCC Pin=J12-5
+Added Pin To Net: NetName=VCC Pin=J12-6
+Added Pin To Net: NetName=VCC Pin=J12-7
+Added Member To Class: ClassName=Sheet1 Member=Component C4 JP5
+Added Member To Class: ClassName=Sheet1 Member=Component C5 JP2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 JP2
+Added Member To Class: ClassName=Sheet1 Member=Component C8 22uF 6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component R1 3k3
+Added Room: Name=Sheet1

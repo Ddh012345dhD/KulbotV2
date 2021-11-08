@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LCD_RST Pin=P1-1
+Removed Pin From Net: NetName=LCD_CE Pin=P1-2
+Removed Pin From Net: NetName=LCD_DC Pin=P1-3
+Removed Pin From Net: NetName=LCD_DIN Pin=P1-4
+Removed Pin From Net: NetName=LCD_CLK Pin=P1-5
+Removed Pin From Net: NetName=VCC Pin=P1-6
+Removed Pin From Net: NetName=LCD_BL Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Member From Class: ClassName=Sheet2 Member=P1
+Added Room: Name=Sheet2

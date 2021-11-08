@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: E:\Users\dangh\Desktop\WORK 3S\E2.0\POWER\other\Copy of Power.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=9V|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=P_IN|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=MCU|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=gnd|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

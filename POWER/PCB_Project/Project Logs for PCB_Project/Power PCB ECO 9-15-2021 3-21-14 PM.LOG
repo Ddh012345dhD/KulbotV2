@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=power Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Added Member To Class: ClassName=power Member=Component J1 9-1612503-1
+Added Member To Class: ClassName=power Member=Component J2 1565986-1
+Added Member To Class: ClassName=power Member=Component R6 10k
+Added Room: Name=power

@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Added Component: Designator=J9(TE_3-1734261-4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1734261-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1734261-4/TE%20Connectivity%20AMP%20Connectors/view-part/1366391/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL_0 Pin=J3-1
+Added Pin To Net: NetName=SDA_0 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=+5 Pin=J3-4
+Added Pin To Net: NetName=SCL_0 Pin=J4-1
+Added Pin To Net: NetName=SDA_0 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=+5 Pin=J4-4
+Added Pin To Net: NetName=SCL_0 Pin=J5-1
+Added Pin To Net: NetName=SDA_0 Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=+5 Pin=J5-4
+Added Pin To Net: NetName=SCL_0 Pin=J6-1
+Added Pin To Net: NetName=SDA_0 Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=+5 Pin=J6-4
+Added Pin To Net: NetName=SCL_0 Pin=J8-1
+Added Pin To Net: NetName=SDA_0 Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=+5 Pin=J8-4
+Added Pin To Net: NetName=SCL_0 Pin=J9-1
+Added Pin To Net: NetName=SDA_0 Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-3
+Added Pin To Net: NetName=+5 Pin=J9-4
+Added Pin To Net: NetName=SCL_0 Pin=J10-1
+Added Pin To Net: NetName=SDA_0 Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=+5 Pin=J10-4
+Added Pin To Net: NetName=SCL_0 Pin=J11-1
+Added Pin To Net: NetName=SDA_0 Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=+5 Pin=J11-4
+Added Member To Class: ClassName=Sheet1 Member=Component J4 3-1734261-4
+Added Room: Name=Sheet1

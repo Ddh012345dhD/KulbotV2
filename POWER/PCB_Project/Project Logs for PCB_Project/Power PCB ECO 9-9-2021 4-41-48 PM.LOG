@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=power Member=C4
+Removed Member From Class: ClassName=power Member=C5
+Removed Member From Class: ClassName=power Member=R?
+Removed Member From Class: ClassName=power Member=SW?
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U NewDesignator=U3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Added Member To Class: ClassName=power Member=Component R6 10k
+Added Room: Name=power

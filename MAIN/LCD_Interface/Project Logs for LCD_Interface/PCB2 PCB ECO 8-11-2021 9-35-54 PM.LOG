@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC Pin=J1-06
+Removed Pin From Net: NetName=GND Pin=J1-08
+Removed Pin From Net: NetName=CANCEL Pin=J1-10
+Removed Pin From Net: NetName=IND Pin=J1-11
+Removed Pin From Net: NetName=DE Pin=J1-12
+Added Pin To Net: NetName=VCC Pin=J1-10
+Added Pin To Net: NetName=LCD_BL Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Change Net Name : Old Net Name=LCD_CLK New Net Name=LCD_DC
+Change Net Name : Old Net Name=LCD_DC New Net Name=LCD_RST
+Change Net Name : Old Net Name=LCD_DIN New Net Name=LCD_CE
+Added Pin To Net: NetName=LCD_CLK Pin=J1-08
+Added Net: Name=LCD_CLK
+Added Pin To Net: NetName=LCD_DIN Pin=J1-06
+Added Net: Name=LCD_DIN
+Added Member To Class: ClassName=LCD Member=Wire LCD_CE
+Added Member To Class: ClassName=LCD Member=Wire LCD_RST
+Added Room: Name=Sheet2

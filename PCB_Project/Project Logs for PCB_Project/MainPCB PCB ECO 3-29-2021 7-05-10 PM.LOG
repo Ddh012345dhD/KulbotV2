@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Power Member=C13
+Removed Member From Class: ClassName=MCU Member=C18
+Removed Member From Class: ClassName=Power Member=C18
+Removed Member From Class: ClassName=MCU Member=C19
+Removed Member From Class: ClassName=Motor Member=C19
+Added Component: Designator=J(TE_1939870-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1939870-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1939870-1/TE%20Connectivity%20AMP%20Connectors/view-part/891733/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component C5 22uF 16V
+Added Member To Class: ClassName=Power Member=Component C6 22uF 16V
+Added Member To Class: ClassName=Power Member=Component C7 22uF 16V
+Added Member To Class: ClassName=Power Member=Component C8 10uF 16V
+Added Member To Class: ClassName=MCU Member=Component C9 22uF 6.3
+Added Member To Class: ClassName=MCU Member=Component C10 22uF 6.3
+Added Member To Class: ClassName=MCU Member=Component C11 22uF 6.3
+Added Member To Class: ClassName=MCU Member=Component C12 Header4
+Added Member To Class: ClassName=MCU Member=Component C14 22pF
+Added Member To Class: ClassName=MCU Member=Component C15 22pF
+Added Member To Class: ClassName=Motor Member=Component C16 22uF 6.3V
+Added Member To Class: ClassName=Motor Member=Component C17 22uF 16V
+Added Member To Class: ClassName=MCU Member=Component J 1939870-1
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

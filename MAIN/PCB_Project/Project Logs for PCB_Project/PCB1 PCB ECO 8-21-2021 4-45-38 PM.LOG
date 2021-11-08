@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Added Component: Designator=R13(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J2-A4/B9
+Added Pin To Net: NetName=D+ Pin=J2-A6
+Added Pin To Net: NetName=D- Pin=J2-A7
+Added Pin To Net: NetName=+5 Pin=J2-B4/A9
+Added Pin To Net: NetName=D+ Pin=J2-B6
+Added Pin To Net: NetName=D- Pin=J2-B7
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=CC1 Pin=J2-A5
+Added Pin To Net: NetName=CC1 Pin=R13-2
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=J2-B5
+Added Pin To Net: NetName=CC2 Pin=R14-2
+Added Net: Name=CC2
+Added Member To Class: ClassName=Sheet1 Member=Component R19 470
+Added Member To Class: ClassName=Sheet1 Member=Component R20 470
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

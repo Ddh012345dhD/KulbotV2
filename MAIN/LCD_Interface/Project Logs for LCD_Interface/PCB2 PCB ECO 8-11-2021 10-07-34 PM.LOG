@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=DE Pin=J1-11
+Added Pin To Net: NetName=IND Pin=J1-12
+Added Pin To Net: NetName=VCC Pin=J1-13
+Added Pin To Net: NetName=IND Pin=J1-14
+Added Room: Name=Sheet2

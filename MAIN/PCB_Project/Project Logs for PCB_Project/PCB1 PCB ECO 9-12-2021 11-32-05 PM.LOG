@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GPIO_2 Pin=R9-2
+Removed Pin From Net: NetName=BT_Config Pin=U5-23
+Removed Pin From Net: NetName=GPIO_2 Pin=U5-24
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Change Component Designator: OldDesignator=J13 NewDesignator=J14
+Change Component Designator: OldDesignator=J NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Added Pin To Net: NetName=lCD_CLK Pin=J12-8
+Added Pin To Net: NetName=LCD_DIN Pin=J12-9
+Added Pin To Net: NetName=LCD_DC Pin=J12-10
+Added Pin To Net: NetName=BT_Config Pin=J13-1
+Added Pin To Net: NetName=GPIO_2 Pin=J13-2
+Change Net Name : Old Net Name=BT_Config New Net Name=NetLabel722
+Change Net Name : Old Net Name=GPIO_2 New Net Name=NetLabel721
+Added Pin To Net: NetName=LCD_CE Pin=J12-11
+Added Pin To Net: NetName=LCD_CE Pin=U5-23
+Added Net: Name=LCD_CE
+Added Pin To Net: NetName=LCD_RST Pin=J12-12
+Added Pin To Net: NetName=LCD_RST Pin=R9-2
+Added Pin To Net: NetName=LCD_RST Pin=U5-24
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=NetLabel704 Pin=J12-7
+Added Net: Name=NetLabel704
+Added Pin To Net: NetName=NetLabel705 Pin=J12-6
+Added Net: Name=NetLabel705
+Added Pin To Net: NetName=NetLabel706 Pin=J12-5
+Added Net: Name=NetLabel706
+Added Pin To Net: NetName=NetLabel707 Pin=J12-4
+Added Net: Name=NetLabel707
+Added Pin To Net: NetName=NetLabel708 Pin=J12-3
+Added Net: Name=NetLabel708
+Added Pin To Net: NetName=NetLabel709 Pin=J12-2
+Added Net: Name=NetLabel709
+Added Pin To Net: NetName=NetLabel710 Pin=J12-1
+Added Net: Name=NetLabel710
+Added Pin To Net: NetName=NetLabel711 Pin=J13-12
+Added Net: Name=NetLabel711
+Added Pin To Net: NetName=NetLabel712 Pin=J13-11
+Added Net: Name=NetLabel712
+Added Pin To Net: NetName=NetLabel713 Pin=J13-10
+Added Net: Name=NetLabel713
+Added Pin To Net: NetName=NetLabel714 Pin=J13-9
+Added Net: Name=NetLabel714
+Added Pin To Net: NetName=NetLabel715 Pin=J13-8
+Added Net: Name=NetLabel715
+Added Pin To Net: NetName=NetLabel716 Pin=J13-7
+Added Net: Name=NetLabel716
+Added Pin To Net: NetName=NetLabel717 Pin=J13-6
+Added Net: Name=NetLabel717
+Added Pin To Net: NetName=NetLabel718 Pin=J13-5
+Added Net: Name=NetLabel718
+Added Pin To Net: NetName=NetLabel719 Pin=J13-4
+Added Net: Name=NetLabel719
+Added Pin To Net: NetName=NetLabel720 Pin=J13-3
+Added Net: Name=NetLabel720
+Added Member To Class: ClassName=Sheet1 Member=Component J14 USB4105_REVA
+Added Room: Name=Sheet1

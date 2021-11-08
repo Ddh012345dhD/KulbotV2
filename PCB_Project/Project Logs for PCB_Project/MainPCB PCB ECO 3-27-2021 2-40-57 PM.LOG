@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP-ALU-SMD-6.3x7.7x2.2 New Footprint=CAP-ALU-SMD-5x5.5x1.4
+Change Component Footprint: Designator=C5 Old Footprint=CAP-ALU-SMD-6.3x7.7x2.2 New Footprint=CAP-ALU-SMD-5x5.5x1.4
+Change Component Comment : Designator=C5 Old Comment=100uF New Comment=47uf
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

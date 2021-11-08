@@ -1,0 +1,9 @@
+Manufacturer=Apem
+PartNumber=MJTP1117
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2018-10-18 12:58:43
+Downloaded=2021-09-13 16:14:00
+3D=N

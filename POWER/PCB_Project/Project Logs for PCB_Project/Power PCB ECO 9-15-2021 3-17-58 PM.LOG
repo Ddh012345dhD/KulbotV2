@@ -1,0 +1,13 @@
+Added Component: Designator=J?(916125031)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1612503%7FE%7Fpdf%7FEnglish%7FENG_CD_1612503_E.pdf%7F9-1612503-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "9-1612503-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-9-1612503-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/9-1612503-1/?qs=7ao7SdBpJfrtkNNaVbJcWQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=power Member=Component J? 5787441-1
+Added Member To Class: ClassName=power Member=Component J? 9-1612503-1
+Added Member To Class: ClassName=power Member=Component R6 10k
+Added Room: Name=power

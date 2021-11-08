@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+5 Pin=USB1-1
+Removed Pin From Net: NetName=D- Pin=USB1-2
+Removed Pin From Net: NetName=D+ Pin=USB1-3
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=Sheet1 Member=R21
+Removed Member From Class: ClassName=Sheet1 Member=R22
+Removed Member From Class: ClassName=Sheet1 Member=USB1
+Added Member To Class: ClassName=Sheet1 Member=Component R13 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R14 5K1
+Added Member To Class: ClassName=Sheet1 Member=Component R15 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R19 470
+Added Room: Name=Sheet1

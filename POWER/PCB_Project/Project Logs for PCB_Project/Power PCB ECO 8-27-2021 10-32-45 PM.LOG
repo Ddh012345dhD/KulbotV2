@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=VR NewDesignator=VR1
+Added Component: Designator=L1(IND_#B952AS-H-470M=P3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "#B952AS-H-470M=P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BOOT_IN Pin=VR1-4
+Added Net: Name=+BOOT_IN
+Added Member To Class: ClassName=power Member=Component L1 #B952AS-H-470M=P3
+Added Room: Name=power

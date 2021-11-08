@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5 Pin=J-A4/B9
+Removed Pin From Net: NetName=+5 Pin=J-B4/A9
+Added Component: Designator=R?(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=NetJ_A4/B9 Pin=J-A4/B9
+Added Pin To Net: NetName=NetJ_A4/B9 Pin=J-B4/A9
+Added Pin To Net: NetName=NetJ_A4/B9 Pin=R?-2
+Added Net: Name=NetJ_A4/B9
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0R
+Added Room: Name=Sheet1

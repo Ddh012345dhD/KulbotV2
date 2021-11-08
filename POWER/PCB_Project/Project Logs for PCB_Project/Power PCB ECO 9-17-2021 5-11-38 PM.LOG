@@ -1,0 +1,4 @@
+Added Class: Name=gnd
+Added Member To Class: ClassName=power Member=Component R12 1K
+Added Member To Class: ClassName=power Member=Component R13 150R
+Added Room: Name=power

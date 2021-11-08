@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=U2-1
+Removed Pin From Net: NetName=+12 Pin=U2-2
+Removed Pin From Net: NetName=NetC3_1 Pin=U2-3
+Removed Member From Class: ClassName=Power Member=U2
+Added Component: Designator=Q(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SI2308CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Vishay Siliconix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SI2308CDS-T1-GE3/Vishay%20Siliconix/view-part/2523766/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_2 Pin=Q-1
+Added Pin To Net: NetName=+12 Pin=Q-2
+Added Pin To Net: NetName=NetC3_1 Pin=Q-3
+Added Member To Class: ClassName=Power Member=Component Q SI2308CDS-T1-GE3
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

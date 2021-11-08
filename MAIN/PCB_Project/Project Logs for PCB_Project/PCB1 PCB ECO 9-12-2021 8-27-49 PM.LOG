@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=J12 NewDesignator=J13
+Added Component: Designator=J12(SAMTEC_ZF1-20-02-X-WT)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ZF1-20-02-T-WT/Samtec/view-part/3429267/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZF1-20-02-T-WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ZF1-20-02-T-WT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZF1-20-02-T-WT/Samtec/view-part/3429267/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C6 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component J9 3-1734261-4
+Added Member To Class: ClassName=Sheet1 Member=Component J12 ZF1-20-02-X-WT
+Added Member To Class: ClassName=Sheet1 Member=Component J13 USB4105_REVA
+Added Member To Class: ClassName=Sheet1 Member=Component U3 SN74HC125PWR
+Added Member To Class: ClassName=Sheet1 Member=Component U4 TCA9548APWR

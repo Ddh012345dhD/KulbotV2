@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetBZT1_1 Pin=BZT1-1
+Removed Pin From Net: NetName=NetBZT1_2 Pin=BZT1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Member From Class: ClassName=POWER Member=NetBZT1_1
+Added Pin To Net: NetName=GND Pin=BZT1-1
+Added Pin To Net: NetName=NetBZT1_1 Pin=BZT1-2
+Added Pin To Net: NetName=NetBZT1_2 Pin=R5-1
+Change Net Name : Old Net Name=NetBZT1_1 New Net Name=NetBZT1_2
+Change Net Name : Old Net Name=NetBZT1_2 New Net Name=NetQ1_1
+Added Member To Class: ClassName=POWER Member=Wire NetQ1_1
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

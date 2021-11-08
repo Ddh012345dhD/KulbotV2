@@ -1,0 +1,67 @@
+Removed Member From Class: ClassName=MCU Member=NetQ4_1
+Removed Member From Class: ClassName=MCU Member=NetQ5_1
+Removed Member From Class: ClassName=S_Power Member=NetR14_2
+Removed Member From Class: ClassName=MCU Member=NetR17_1
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q3
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R14
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Component Designator: OldDesignator=R19 NewDesignator=R16
+Change Component Designator: OldDesignator=R20 NewDesignator=R17
+Change Component Designator: OldDesignator=R21 NewDesignator=R18
+Change Component Designator: OldDesignator=R22 NewDesignator=R19
+Change Component Designator: OldDesignator=R23 NewDesignator=R20
+Change Component Designator: OldDesignator=R24 NewDesignator=R21
+Change Component Designator: OldDesignator=R25 NewDesignator=R22
+Change Component Designator: OldDesignator=R26 NewDesignator=R23
+Change Component Designator: OldDesignator=R27 NewDesignator=R24
+Change Component Designator: OldDesignator=R28 NewDesignator=R25
+Change Component Designator: OldDesignator=R29 NewDesignator=R26
+Change Component Designator: OldDesignator=R30 NewDesignator=R27
+Change Component Designator: OldDesignator=R31 NewDesignator=R28
+Change Component Designator: OldDesignator=R32 NewDesignator=R29
+Change Component Designator: OldDesignator=R33 NewDesignator=R30
+Change Component Designator: OldDesignator=R34 NewDesignator=R31
+Change Component Designator: OldDesignator=R35 NewDesignator=R32
+Change Component Designator: OldDesignator=R36 NewDesignator=R33
+Change Component Designator: OldDesignator=R37 NewDesignator=R34
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change Component Designator: OldDesignator=U8 NewDesignator=U6
+Change Component Designator: OldDesignator=U9 NewDesignator=U7
+Change Component Designator: OldDesignator=U10 NewDesignator=U8
+Change Component Designator: OldDesignator=U11 NewDesignator=U9
+Change Component Designator: OldDesignator=U12 NewDesignator=U10
+Change Component Designator: OldDesignator=U13 NewDesignator=U11
+Added Component: Designator=J3(GCT_MEM2075-00-140-01-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MEM2075-00-140-01-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MEM2075-00-140-01-A/Global%20Connector%20Technology/view-part/2680480/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR14_1
+Added Member To Class: ClassName=MCU Member=Component J3 MEM2075-00-140-01-A
+Added Member To Class: ClassName=MCU Member=Component P1 Header 4
+Added Member To Class: ClassName=MCU Member=Component P10 Header 4
+Added Member To Class: ClassName=MCU Member=Component P12 Header 4
+Added Member To Class: ClassName=MCU Member=Component P14 Header 4
+Added Member To Class: ClassName=Motor Member=Wire +9
+Added Member To Class: ClassName=POWER Member=Wire +9
+Added Member To Class: ClassName=MCU Member=Wire NetQ2_1
+Added Member To Class: ClassName=MCU Member=Wire NetQ3_1
+Added Member To Class: ClassName=S_Power Member=Wire NetR11_2
+Added Member To Class: ClassName=MCU Member=Wire NetR14_1

@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Change Component Designator: OldDesignator=P6 NewDesignator=P8
+Change Component Designator: OldDesignator=P7 NewDesignator=P9
+Change Component Designator: OldDesignator=P8 NewDesignator=P10
+Change Component Designator: OldDesignator=P9 NewDesignator=P1
+Change Component Designator: OldDesignator=P10 NewDesignator=P2
+Added Component: Designator=J2(GCT_USB4110-GF-A_REVB)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4110-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USB4110-GF-A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-A1/B12
+Added Pin To Net: NetName=GND Pin=J2-B1/A12
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Added Member To Class: ClassName=Sheet1 Member=Component J2 USB4110-GF-A_REVB
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 LED
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

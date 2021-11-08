@@ -1,0 +1,4 @@
+Added Component: Designator=MMC1(MicroSD-2)
+Added Member To Class: ClassName=Sheet1 Member=Component MMC1 MicroSD Card
+Added Room: Name=servo
+Added Room: Name=Sheet1

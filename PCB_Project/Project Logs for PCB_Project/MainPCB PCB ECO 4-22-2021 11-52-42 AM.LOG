@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R34 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0603
+Added Room: Name=LED
+Added Room: Name=MCU
+Added Room: Name=Motor
+Added Room: Name=Power

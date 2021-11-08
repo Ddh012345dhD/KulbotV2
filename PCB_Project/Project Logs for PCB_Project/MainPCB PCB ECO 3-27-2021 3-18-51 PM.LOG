@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=POWER Member=NetC4_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetCx1_1
+Added Member To Class: ClassName=POWER Member=Wire NetCx1_1

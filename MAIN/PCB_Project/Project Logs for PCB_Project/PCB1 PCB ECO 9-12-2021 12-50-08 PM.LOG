@@ -1,0 +1,3 @@
+Added Member To Class: ClassName=SENSOR_INPUT Member=Wire GND
+Added Member To Class: ClassName=SENSOR_INPUT Member=Wire NetR5_1
+Added Room: Name=Sheet1

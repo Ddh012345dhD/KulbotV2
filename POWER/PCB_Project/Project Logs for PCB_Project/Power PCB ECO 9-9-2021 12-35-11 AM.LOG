@@ -1,0 +1,4 @@
+Added Component: Designator=SW?(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=power Member=Component SW? SW
+Added Room: Name=power

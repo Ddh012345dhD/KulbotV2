@@ -1,0 +1,37 @@
+Net Status Report
+Filename     : C:\Users\dangh\Desktop\WORK 3S\E2.0\POWER\PCB_Project\Power.PcbDoc
+Date         : 9/17/2021
+Time         : 5:58:16 PM
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    +5, Signal Layers Only, 0mm
+    +9, Signal Layers Only, 0mm
+    +BAT, Signal Layers Only, 10mm
+    ALRT, Signal Layers Only, 0mm
+    CRL_P, Signal Layers Only, 0mm
+    EX, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 5mm
+    MISO, Signal Layers Only, 0mm
+    MOSI/SDA, Signal Layers Only, 0mm
+    NetC1_1, Signal Layers Only, 0mm
+    NetC2_1, Signal Layers Only, 0mm
+    NetCx7_1, Signal Layers Only, 0mm
+    NetD3_1, Signal Layers Only, 0mm
+    NetIC1_3, Signal Layers Only, 0mm
+    NetIC2_3, Signal Layers Only, 0mm
+    NetQ1_4, Signal Layers Only, 0mm
+    NetQ2_4, Signal Layers Only, 0mm
+    NetQ3_1, Signal Layers Only, 0mm
+    RST, Signal Layers Only, 0mm
+    R_SW_Power, Signal Layers Only, 0mm
+    SCK/SCL, Signal Layers Only, 0mm
+    TP1, Signal Layers Only, 0mm
+    TP_FB, Signal Layers Only, 0mm
+    TP_PINT1, Signal Layers Only, 0mm
+    TP_PINT2, Signal Layers Only, 0mm
+    TP_PINT3, Signal Layers Only, 0mm
+    U_RX, Signal Layers Only, 0mm
+    U_TX, Signal Layers Only, 0mm
+    VCC, Signal Layers Only, 0mm
+count : 29
